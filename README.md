@@ -101,4 +101,5 @@ def app():
 Then if __name__ == '__main__': calls the app() function to run the Streamlit application.
 # Workflow:
 To watch the workflow of this project you can click this below link.
+[click this to get a linkedin post for demo video](https://www.linkedin.com/posts/elakkiya-nila-47a42021a_datacollection-twitter-project-activity-7052318908346761216-9-yE?utm_source=share&utm_medium=member_desktop)
 
